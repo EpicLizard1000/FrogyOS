@@ -1,1 +1,2 @@
 # FrogyOS
+This Is FrogyOS it's a OS i'm making in my free time in the <a href="https://www.lua.org/home.html">Lua</a> language! While <a href="https://www.lua.org/home.html">Lua</a> is an interprited language you can compile it wich is what i am planning to do and then put it in a <a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">Kernel</a> and then link it to a <a href="https://en.wikipedia.org/wiki/Bootloader">Bootloader</a>!
