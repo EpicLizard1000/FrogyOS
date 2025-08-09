@@ -1,14 +1,5 @@
 # FrogyOS
-
-A Lua-based command-line Operating System compiled to C and bootable on real hardware. Still in development — features include:
-
-- Custom shell interface
-- Kernel integration
-- Bootloader compatibility
-
-## Getting Started
-
-1. Clone this repo  
+This Is FrogyOS it's a OS i'm making in my free time in the <a href="https://www.lua.org/home.html">Lua</a> language! While <a href="https://www.lua.org/home.html">Lua</a> is an interpreted language you can compile it which is what i am planning to do and then put it in a <a href="https://en.wikipedia.org/wiki/Kernel_(operating_system)">Kernel</a> and then link it to a <a href="https://en.wikipedia.org/wiki/Bootloader">Bootloader</a>! I will be constantly updating FrogyOS and when the first full version is out I will package it and then release it!
    ```bash
    git clone https://github.com/EpicLizard1000/FrogyOS.git
    cd FrogyOS
