@@ -1,0 +1,60 @@
+*{
+    font-family: sans-serif;
+}
+.title{
+    border-radius: 8px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: white;
+    background-color: lightgreen;
+}
+.info{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    background-color: lightgreen;
+    border-width: 2px;
+    border-radius: 8px;
+    padding-top: 5px;
+    color: white;
+}
+button{
+    height: 40px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    height: 40px;
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: lightblue;
+    color: black;
+}
+.spacer{
+    color: white;
+}
+.main{
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    background-color: lightgreen;
+    border-width: 2px;
+    border-radius: 8px;
+    padding-top: 5px;
+    color: white;
+}
+.importantstuff{
+    background-color: lightgreen;
+    border-radius: 8px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    color: white;
+}
+a{
+    color: white;
+}
