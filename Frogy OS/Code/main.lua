@@ -7,11 +7,12 @@ local cmd = io.read()
 
 if cmd == "help" then
     print("sys = os information")
-    print("quit = quits FrogyOS")
-    print("lua = runs lua")
     print("te = text editor")
+    print("lua = runs lua")
+    print("quit = quits FrogyOS")
     print("compile = compiles lua to a .fro file (FrogyOS executable file)")
     print("run = run a .fro file (FrogyOS executable file)")
+    print("quit = quits FrogyOS")
 end
 if cmd == "sys" then
     print("Version Number:  V1.00")
